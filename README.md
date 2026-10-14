@@ -9,6 +9,9 @@
 * *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 * *Izreži* označeno v odložišče: Ctrl+X
 * *Prilepi* vsebino odložišča: Ctrl+V
+* *Komentiraj ali odkomentiraj* vrstico kode: Ctrl+/ (Comment)
+* *Podvoji trenutno vrstico kode*: Shift+Alt+↓ (Duplicate)
+* *Premakni vrstico kode navzgor ali navzdol*: Alt+↑ / Alt+↓ (Move)
 
 <!-- 2. nivojski razdelek -->
 ## Koda
