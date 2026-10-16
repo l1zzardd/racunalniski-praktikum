@@ -12,6 +12,11 @@
 * *Komentiraj ali odkomentiraj* vrstico kode: Ctrl+/ (Comment)
 * *Podvoji trenutno vrstico kode*: Shift+Alt+↓ (Duplicate)
 * *Premakni vrstico kode navzgor ali navzdol*: Alt+↑ / Alt+↓ (Move)
+- VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
+- Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
+- Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
+- Brisanje vrstice: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>K</kbd>)
+- Pretvorba označenega besedila v velike črke: ukaz _Transform to Uppercase_ v paleti ukazov
 
 <!-- 2. nivojski razdelek -->
 ## Koda
