@@ -4,3 +4,11 @@
 *fdb_latexmk
 *.fls
 *.gz
+*.out
+*.toc
+*.nav
+*.snm
+*.bbl
+*.blg
+*.bcf
+*.run.xml
